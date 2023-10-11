@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Handbook</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+    <string name="menu_planet">Планеты</string>
+    <string name="menu_star">Звезды</string>
+    <string name="menu_satellite">Спутники </string>
+    <string name="menu_station">Космическая станция </string>
+    <string name="menu_different">Разное</string>
+    <string name="menu_fact">Интересные факты</string>
+
+
+</resources>

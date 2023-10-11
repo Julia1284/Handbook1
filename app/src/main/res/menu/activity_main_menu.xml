@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_planet"
+            android:icon="@drawable/planet"
+            android:title="@string/menu_planet"/>
+        <item
+            android:id="@+id/menu_star"
+            android:icon="@drawable/star"
+            android:title="@string/menu_star"/>
+        <item
+            android:id="@+id/menu_satellite"
+            android:icon="@drawable/satellite"
+            android:title="@string/menu_satellite"/>
+        <item
+            android:id="@+id/menu_station"
+            android:icon="@drawable/station"
+            android:title="@string/menu_station"/>
+    </group>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/menu_facts"
+                android:icon="@drawable/facts"
+                android:title="@string/menu_fact"/>
+        </menu>
+
+    </item>
+</menu>

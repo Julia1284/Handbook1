@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planet_array">
+        <item>Меркурий</item>
+        <item>Венера</item>
+        <item>Земля</item>
+        <item>Марс</item>
+        <item>Юпитер</item>
+        <item>Сатурн</item>
+        <item>Уран</item>
+        <item>Нептун</item>
+        <item>Плутон</item>
+    </string-array>
+
+    <string-array name="star_array">
+        <item>Вега</item>
+        <item>Альтаир</item>
+        <item>Альфа Центавра</item>
+        <item>Бета Центавра</item>
+
+
+    </string-array>
+</resources>
